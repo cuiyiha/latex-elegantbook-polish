@@ -1,0 +1,5 @@
+interface:
+  display_name: "ElegantBook LaTeX 优化"
+  short_description: "将中文 LaTeX 文档优化为 ElegantBook 风格"
+  brand_color: "#3F7C78"
+  default_prompt: "使用 $latex-elegantbook-polish 优化当前中文 LaTeX 文档，并完成编译与视觉检查。"
